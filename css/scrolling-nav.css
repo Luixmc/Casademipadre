@@ -7,14 +7,6 @@ header {
   padding: 156px 0 100px;
 }
 
-.responsive{
-text-align: center;
-height: auto;
-width: 100%;
-  
-}
-
-
 section {
     padding-top: 13px;
     padding-right: 13px;
@@ -54,21 +46,20 @@ section {
 .box:hover:before{
   background: #0472ca;
 }
-a {
+img {
 height: auto;
 max-width: 100%;
 }
 
-.img-container{
-  text-align: center;
-  height:360px;
+.img-container img{
+  width:85%;
+  height:auto;
 }
 
-.img-container iframe{
-  max-width:auto;
-  height:100%;
+.img-container{
+  width:auto;
+  height:auto;
   overflow:hidden;
-  text-align: center;
 }
 
 
@@ -107,15 +98,8 @@ padding:0;
   color: #ffffff;
   background-color: #1C2A37;
   height: auto;
-  max-width: 60%;
+  max-width: 80%;
 }
-
-.offset-lg-1 iframe{
-
-  max-height: 70%;
- 
-}
-
 
 .offset-lg-1 a{
   padding-left: 50px;
