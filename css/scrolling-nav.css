@@ -7,6 +7,16 @@ header {
   padding: 156px 0 100px;
 }
 
+.responsive iframe {
+text-align: center;
+
+}
+
+.responsive{
+  max-height: auto;
+max-width: 100%;
+}
+
 section {
     padding-top: 13px;
     padding-right: 13px;
@@ -46,20 +56,22 @@ section {
 .box:hover:before{
   background: #0472ca;
 }
-img {
+a {
 height: auto;
 max-width: 100%;
 }
 
-.img-container img{
+.img-container{
+  text-align: center;
   width:85%;
   height:auto;
 }
 
-.img-container{
+.img-container div{
   width:auto;
   height:auto;
   overflow:hidden;
+
 }
 
 
