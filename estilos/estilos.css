@@ -1,0 +1,210 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+ header {
+    padding: 156px 0 100px;
+  }
+
+  section {
+    background:#1C2A37;
+    
+  }
+  section {
+      padding-top: 13px;
+      padding-right: 13px;
+      padding-left: 13px;
+      padding-bottom: 13px;
+  }
+  .col-12{
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%
+}
+  .box{
+    position:absolute;
+    top:85%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font: #fff;
+  }
+  .box select{
+    background:#1C2A37;
+    padding:10px;
+    width:350px;
+    height:40px;
+    border:none;
+    font-size: 20px;
+    box-shadow: 0 5px 25px rgba(0,0,0,.5);
+    -webkit-appearance: button;
+    font: #fff;
+  }
+
+  
+
+  
+  img {
+  height: auto;
+  max-width: 100%;
+  }
+  
+  .img-container img{
+    width:78%;
+    height:auto;
+  }
+  
+  .img-container{
+    width:auto;
+    height:auto;
+    overflow:hidden;
+  }
+  
+  
+  .capitulos {
+  padding-left: 13px;
+  }
+  
+.logo{
+  width: 80px;
+  height: 80px;
+  margin-left: 47%;
+}
+
+  offset-lg-1{
+  height: auto;
+  max-width: 100%;
+  }
+  
+  .letrablanca{
+  color:#fff;
+  }
+  
+  .cuadro{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+  height: 320px;
+  width: 238px;
+}
+.cuadro img{
+        background:#e66419;
+        padding:10px;
+        width:350px;
+        height:40px;
+        border:none;
+        font-size: 20px;
+        box-shadow: 0 5px 25px rgba(0,0,0,.5);
+        -webkit-appearance: button;
+        font: #fff;
+}
+  
+
+
+  .offset-lg-1 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #ffffff;
+    background-color: #1C2A37;
+    height: auto;
+    max-width: 80%;
+  }
+  
+  .offset-lg-1 a{
+    padding-left: 50px;
+  }
+  
+  .contenedor-grande{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    
+}
+.fondo{
+  background:rgb(48, 106, 160);
+  margin: auto;
+  height: auto;
+  
+}
+.contenedor-img{
+    width:100%;
+    max-width:800px;
+
+}
+
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+
+font-size: 1.25rem;
+height: 320px;
+width: 238px;
+
+
+}
+
+.contenedor img{
+  padding:.25rem;
+  background-color:#fff;
+  border:1px solid #636464;
+  border-radius:.25rem;
+  transition:all .9s ease-in-out;
+  
+}
+.texto-encima{
+  border-radius:.45rem;
+    opacity:0.9;
+    position: absolute;
+    bottom: 1px;
+    left:20px;
+    color: #ffffff;
+    background-color: rgb(223, 98, 14);
+    padding:9px;
+    height:auto;
+    width: 77%;
+    text-align: center;
+    font-family: "Marker Felt_2";
+    }
+
+hr{
+  border:4px solid #ffffff;
+  border-radius:.25rem;
+}
+
+
+
+.titulo{
+
+  text-align: center;
+  color:white;
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    .contenedor img:hover  {
+      filter: blur(2px);
+      transition:all 2s
+    }
+
+  
+  .contenedor-2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: auto;
+    max-width: 80%;
+    text-align: center;
+  }
+  
+
+
+  .disqus_thread{
+    height: auto;
+    max-width: 90%;
+  }
+  
