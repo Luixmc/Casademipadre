@@ -31,7 +31,8 @@ max-width: 100%;
 }
 
 .img-container iframe{
-  width:78%;
+  text-align: center;
+  width:90%;
   height:auto;
 }
 .img-container{
