@@ -49,17 +49,17 @@ max-width: 100%;
 @media (min-width: 100px) and (max-width: 1300px) {
  iframe {
   text-align: center;
-height: auto;
+height: 177px;
 max-width: 100%;
 }
 
 .img-container iframe{
   width:100%;
-  height:auto;
+  height:177px;
 }
 
 .img-container{
-  Max-width:890px;
+  Max-width:320px;
   height:auto;
   overflow:hidden;
 }
