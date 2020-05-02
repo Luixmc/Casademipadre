@@ -44,12 +44,12 @@ max-width: 100%;
 
 }
 @media (min-width: 100px) and (max-width: 1300px) {
- img {
+ iframe {
 height: auto;
 max-width: 100%;
 }
 
-.img-container img{
+.img-container iframe{
   width:100%;
   height:auto;
 }
