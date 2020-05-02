@@ -67,6 +67,12 @@ width:320px;
   text-align: center;
 }
 
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
+
 .img-container{
   width: 80%;
 
