@@ -50,7 +50,7 @@ max-width: 100%;
  iframe {
   text-align: center;
 height: 177px;
-max-width: 100%;
+width:320px;
 }
 
 .img-container iframe{
