@@ -25,12 +25,12 @@
 }
 
 @media (min-width: 1300px) {
- img {
+ iframe {
 height: auto;
 max-width: 100%;
 }
 
-.img-container img{
+.img-container iframe{
   width:78%;
   height:auto;
 }
