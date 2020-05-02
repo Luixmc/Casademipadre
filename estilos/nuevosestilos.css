@@ -16,7 +16,7 @@
   background:#1C2A37;
   padding:10px;
   width:350px;
-  height:45px;
+  height:50px;
   border:none;
   font-size: 20px;
   box-shadow: 0 5px 25px rgba(0,0,0,.5);
@@ -26,6 +26,7 @@
 
 @media (min-width: 1300px) {
  iframe {
+  text-align: center;
 height: auto;
 max-width: 100%;
 }
@@ -36,6 +37,7 @@ max-width: 100%;
   height:auto;
 }
 .img-container{
+  text-align: center;
   width:auto;
   height:auto;
   overflow:hidden;
@@ -46,6 +48,7 @@ max-width: 100%;
 }
 @media (min-width: 100px) and (max-width: 1300px) {
  iframe {
+  text-align: center;
 height: auto;
 max-width: 100%;
 }
