@@ -50,11 +50,11 @@
   position: relative;
   }
 .video-responsive iframe, .video-responsive object, .video-responsive embed {
-  height: 15%;
+  height: 20%;
 left: 11%;
 position: absolute;
 top: 58%;
-width: 70%;
+width: 78%;
   }
 
 video {
