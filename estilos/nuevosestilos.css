@@ -24,18 +24,9 @@
   font: #fff;
 }
 
-@media (min-width: 1300px) {
- iframe {
-  text-align: center;
-height: auto;
-max-width: 100%;
-}
 
-.img-container iframe{
-  text-align: center;
-  width:90%;
-  height:auto;
-}
+
+
 .img-container{
   text-align: center;
   width:auto;
@@ -46,26 +37,10 @@ max-width: 100%;
 
 
 }
-@media (min-width: 320px) and (max-width: 320px) {
- iframe {
-  text-align: center;
-height: 177px;
-width:320px;
-}
-@media (min-width: 480px) and (max-width: 480px) {
-  iframe {
-   text-align: center;
- height: 177px;
- width:320px;
- }
 
-.img-container iframe{
-  width: 80%;
 
-  height: 170px;
-  
-  text-align: center;
-}
+
+
 
 .video-responsive {
   height: 0;
